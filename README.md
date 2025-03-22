@@ -1,4 +1,4 @@
-# Customer-Churn-Telecom--Data-Analysis-
+# Customer-Churn-Telecom-Data-Analysis
 Exploratory Data Analysis - Customer Churn in Telecom<br>
 In this repository, I have taken Customer Churn in Telecom Industry data from Kaggle and I have done:
 
